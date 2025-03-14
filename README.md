@@ -2,11 +2,15 @@
 
 # Olá! Eu sou o Samuel de Jesus🛠️
 
+### Desenvolvedor Back-End
+
 ## Resumo Profissional💻
 
  Desenvolvedor com 1 ano de experiência e estudos na área da Ti, Sou um freelancer Full-Stack, moro em Lages/SC e trabalho de forma remota.
 
 📔Comecei a me interessar pela área da tecnologia há um bom tempo, já se fazem uns 2 anos que estudo programção, principalmente C# e .NET
+
+📔Cursei o Cursos de sistemas em C#, SQL, .NET e ANGULAR na SIDY LAGES, Jovem Programador SENAC LAGES com certificado do HACKATOHN 2024, e atualmente continuo me atualizando, cursando a ACÂDEMIA DO PROGRAMADOR e mais alguns cursos na UDEMY
 
 💼Trabalhei durante um ano na empresa Castanhel Produtos de Limpeza Profissional enquanto eu estudava programação, pedi o desligamento da empresa em março de 2025 para focar apenas na carreira como desenvolvedor freelancer
 
