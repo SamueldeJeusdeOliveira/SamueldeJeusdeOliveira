@@ -16,6 +16,10 @@
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samueks_320/?next=%2F)
 [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#drafts?compose=CllgCKCCSZhqQLhNKrKTvqTMNShDMPjMmnLvjxkTzBftsvdKgRBmfzczRfDBVtZqPZmtBnRQgsV)
 
+Telefone: (49) 99986-5694
+
+E-Mail: samuksjj@gmail.com
+
 ![SamueldeJesusdeOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=SamueldeJeusdeOliveira&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueldeJeusdeOliveira&hide_progress=true)
