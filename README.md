@@ -2,7 +2,7 @@
 
 # Olá! Eu sou o Samuel de Jesus🛠️
 
-### Desenvolvedor Back-End
+### Desenvolvedor Full-Stack
 
 ## Resumo Profissional💻
 
