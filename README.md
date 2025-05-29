@@ -26,7 +26,6 @@ E-Mail: samuksjj@gmail.com
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueldeJeusdeOliveira&hide_progress=true)
 ## Tecnologias que eu uso no meu dia
 
 ### BACK-END:
@@ -64,7 +63,15 @@ E-Mail: samuksjj@gmail.com
 <img align="center" alt="html5" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
 <p>
-  ![SamueldeJesusdeOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=SamueldeJeusdeOliveira&show_icons=true&theme=merko)
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=SamueldeJeusdeOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueldeJeusdeOliveira&hide_progress=true)
+ ![SamueldeJesusdeOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=SamueldeJeusdeOliveira&show_icons=true&theme=merko)
 
 <img 
       align="left" 
