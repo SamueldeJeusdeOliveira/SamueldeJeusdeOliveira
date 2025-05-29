@@ -14,6 +14,7 @@
 
 💼Trabalhei durante um ano na empresa Castanhel Produtos de Limpeza Profissional enquanto eu estudava programação, pedi o desligamento da empresa em março de 2025 para focar apenas na carreira como desenvolvedor freelancer
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 ## Contato📞
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samueldejesusdeoliveira/)
@@ -61,11 +62,5 @@ E-Mail: samuksjj@gmail.com
 <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</div>
-<div>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueldeJeusdeOliveira&hide_progress=true)
- ![SamueldeJesusdeOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=SamueldeJeusdeOliveira&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueldeJesusdeOliveira&hide_progress=true)
-</div>
 
 
