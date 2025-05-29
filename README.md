@@ -62,7 +62,10 @@ E-Mail: samuksjj@gmail.com
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueldeJeusdeOliveira&hide_progress=true)
+<div>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueldeJeusdeOliveira&hide_progress=true)
  ![SamueldeJesusdeOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=SamueldeJeusdeOliveira&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueldeJesusdeOliveira&hide_progress=true)
+</div>
+
 
